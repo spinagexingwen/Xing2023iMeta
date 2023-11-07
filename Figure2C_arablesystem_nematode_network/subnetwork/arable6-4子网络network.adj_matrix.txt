@@ -1,0 +1,12 @@
+	Mesorhabditis	Cephalobus	Acrobeloides	Ceratoplectus	Prismatolaimus	Filenchus	Ditylenchus	Aphelenchus	Paraphelenchus	Klarkus	Aporcelaimellus
+Mesorhabditis	0	0	0	0	0	0	0	0	0	0.802409595481884	0
+Cephalobus	0	0	0	0	0	0	0	-0.833333333333333	0	0	0
+Acrobeloides	0	0	0	0	0	0	0.946124746911475	0	0	0	0
+Ceratoplectus	0	0	0	0	0	-0.730552019767088	0	0	0	-0.754504545005353	0
+Prismatolaimus	0	0	0	0	0	0	0	-0.80511756018254	0	0	0
+Filenchus	0	0	0	-0.730552019767088	0	0	0	0	0	0	0
+Ditylenchus	0	0	0.946124746911475	0	0	0	0	0	0	0	0
+Aphelenchus	0	-0.833333333333333	0	0	-0.80511756018254	0	0	0	0	0	0
+Paraphelenchus	0	0	0	0	0	0	0	0	0	0	0.710284805204577
+Klarkus	0.802409595481884	0	0	-0.754504545005353	0	0	0	0	0	0	0
+Aporcelaimellus	0	0	0	0	0	0	0	0	0.710284805204577	0	0

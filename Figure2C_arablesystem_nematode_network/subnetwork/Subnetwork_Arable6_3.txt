@@ -1,0 +1,13 @@
+	Mesorhabditis	Cephalobus	Heterocephalobus	Acrobeloides	Ceratoplectus	Prismatolaimus	Rhabdolaimus	Filenchus	Ditylenchus	Aphelenchus	Klarkus	Aporcelaimellus
+Mesorhabditis	0	0	0	0	0	0	0	0	0	0	1	0
+Cephalobus	0	0	0	0	0	0	0	0	0	1	0	0
+Heterocephalobus	0	0	0	0	0	0	0	0	0	0	1	0
+Acrobeloides	0	0	0	0	0	0	0	0	1	0	0	0
+Ceratoplectus	0	0	0	0	0	0	0	1	0	0	1	0
+Prismatolaimus	0	0	0	0	0	0	0	0	0	1	0	0
+Rhabdolaimus	0	0	0	0	0	0	0	0	1	1	0	1
+Filenchus	0	0	0	0	1	0	0	0	0	0	0	0
+Ditylenchus	0	0	0	1	0	0	1	0	0	0	0	0
+Aphelenchus	0	1	0	0	0	1	1	0	0	0	0	0
+Klarkus	1	0	1	0	1	0	0	0	0	0	0	0
+Aporcelaimellus	0	0	0	0	0	0	1	0	0	0	0	0

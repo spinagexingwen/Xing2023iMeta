@@ -1,0 +1,15 @@
+nodes_id	degree	modularity
+Rhabditis	1	1
+Mesorhabditis	2	1
+Cephalobus	1	2
+Acrobeloides	1	5
+Ceratoplectus	2	1
+Prismatolaimus	1	2
+Filenchus	1	1
+Ditylenchus	1	5
+Aphelenchus	2	2
+Paraphelenchus	1	4
+Klarkus	2	1
+Prodorylaimus	1	3
+Epidorylaimus	1	3
+Aporcelaimellus	1	4

@@ -1,0 +1,15 @@
+nodes_id	within_module_connectivities	among_module_connectivities	degree	modularity
+Acrobeloides	0	0	2	1
+Aphelenchus	0	0	2	1
+Aporcelaimellus	0	0	1	4
+Cephalobus	-1.41421356237309	0	1	1
+Ceratoplectus	-1.43427433120127	0	2	2
+Ditylenchus	0	0	2	1
+Epidorylaimus	0	0	1	3
+Eudorylaimus	0.956182887467515	0	4	2
+Mesodorylaimus	1.41421356237309	0	3	1
+Mesorhabditis	-0.239045721866879	0	3	2
+Paraphelenchus	0	0	1	4
+Prodorylaimus	0	0	1	3
+Rhabditis	-0.239045721866879	0	3	2
+Tylencholaimus	0.956182887467515	0	4	2

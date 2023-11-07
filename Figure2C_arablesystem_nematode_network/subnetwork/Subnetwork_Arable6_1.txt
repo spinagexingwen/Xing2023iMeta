@@ -1,0 +1,15 @@
+	Rhabditis	Mesorhabditis	Cephalobus	Heterocephalobus	Acrobeloides	Ceratoplectus	Rhabdolaimus	Paramphidelus	Filenchus	Aphelenchus	Klarkus	Mesodorylaimus	Microdorylaimus	Aporcelaimellus
+Rhabditis	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Mesorhabditis	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Cephalobus	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Heterocephalobus	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Acrobeloides	0	0	0	0	0	0	0	1	0	0	0	1	0	0
+Ceratoplectus	0	0	0	0	0	0	0	1	1	0	1	0	0	0
+Rhabdolaimus	0	0	0	0	0	0	0	1	0	1	0	1	1	1
+Paramphidelus	0	0	0	0	1	1	1	0	0	0	0	1	1	0
+Filenchus	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Aphelenchus	0	0	1	0	0	0	1	0	0	0	0	1	1	0
+Klarkus	0	1	0	1	0	1	0	0	0	0	0	0	0	0
+Mesodorylaimus	0	0	0	0	1	0	1	1	0	1	0	0	1	0
+Microdorylaimus	0	0	0	0	0	0	1	1	0	1	0	1	0	0
+Aporcelaimellus	0	0	0	0	0	0	1	0	0	0	0	0	0	0
