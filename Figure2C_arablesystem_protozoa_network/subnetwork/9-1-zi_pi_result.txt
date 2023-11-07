@@ -1,0 +1,4 @@
+nodes_id	within_module_connectivities	among_module_connectivities	degree	modularity
+ProASV257	0	0.5	2	1
+ProASV258	0	0.5	2	1
+ProASV259	0	0	2	2

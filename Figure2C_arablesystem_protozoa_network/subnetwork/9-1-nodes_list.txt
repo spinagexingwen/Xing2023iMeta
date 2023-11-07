@@ -1,0 +1,4 @@
+nodes_id	degree	modularity
+ProASV257	2	1
+ProASV258	2	1
+ProASV259	2	2

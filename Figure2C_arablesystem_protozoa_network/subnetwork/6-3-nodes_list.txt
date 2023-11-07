@@ -1,0 +1,14 @@
+nodes_id	degree	modularity
+ProASV17	3	1
+ProASV41	1	5
+ProASV65	3	1
+ProASV67	1	4
+ProASV85	3	1
+ProASV87	2	2
+ProASV95	1	3
+ProASV97	1	3
+ProASV155	1	4
+ProASV159	3	1
+ProASV191	2	2
+ProASV248	1	5
+ProASV254	2	2

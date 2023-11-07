@@ -1,0 +1,4 @@
+id	Arable6_1	Arable6_2	Arable6_3	Arable6_4	Arable9_1	Arable9_2	Arable9_3	Arable9_4
+ProASV257	0	0	0	0	0.026470588	0	0	0
+ProASV258	0	0	0	0	0.002352941	0	0	0
+ProASV259	0	0	0	0	0.971176471	0	0	0

@@ -1,0 +1,4 @@
+source	target	weight	correlation
+ProASV257	ProASV258	1	1
+ProASV257	ProASV259	1	1
+ProASV258	ProASV259	1	1
